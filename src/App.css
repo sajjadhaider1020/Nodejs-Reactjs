@@ -1,0 +1,21 @@
+.container{
+  border-radius: 20px;
+}
+.row{
+  margin-top: 7rem;
+}
+.title{
+  color: white !important;
+  margin-top: 0px;
+  /* margin-bottom: 0px; */
+  font-weight: 400;
+  
+}
+.sub-title{
+  color: white !important;
+  font-weight: 500;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+
+}

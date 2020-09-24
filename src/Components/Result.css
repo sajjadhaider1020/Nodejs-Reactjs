@@ -1,0 +1,50 @@
+.container{
+    border-radius: 20px;
+  }
+.title-result{
+    color: white !important;
+    margin-top: 0px;
+    font-weight: 400;
+    /* margin-bottom: 5px; */
+  }
+  .hr-tag{
+      color: white;
+      margin-top: 0;
+  }
+  .roll-num{
+      color: white !important;
+      font-weight: 400;
+      font-size: 20px;
+      margin-bottom: 3px;
+      text-align: left;
+  }
+  .text-area{
+      /* margin-top: 5rem; */
+      margin-left: 2rem;
+      margin-right: 2rem;
+      border-radius: 20px;
+  }
+  .in-field{
+      margin-top: 0rem; 
+  }
+.materialize-textarea{
+      margin-top: 3rem;
+      border-radius: 20px;
+      margin-bottom: 2rem;
+      height: 45px;
+  }
+.btn{
+      text-align: center; 
+      border-radius: 20px;
+      width: 20%;
+  }
+.input-field{
+      background-color: whitesmoke;
+      border-radius: 20px;
+      margin-bottom: 2rem;
+      margin-right: 2rem;
+      margin-top: 0px;
+  }
+  label.active {
+    color: royalblue !important;
+  }
